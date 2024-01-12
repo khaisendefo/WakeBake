@@ -1,1 +1,1 @@
-[![Form](img/readme.jpg)](https://khaisendefo.github.io/Form/)
+[![Form](img/readme.png)](https://khaisendefo.github.io/Form/)
